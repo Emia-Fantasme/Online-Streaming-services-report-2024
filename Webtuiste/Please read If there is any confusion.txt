@@ -1,0 +1,22 @@
+The main .html Doc can be found in: 
+{Rico-Janse-van-Rensburg_Gr-12_Rekenaar-Toepassings-Tegnelogie_Praktiese-Asseserings-Taak\Fase-3\Webtuiste}
+with the filename "Lang_Select.html". This is the first page of the website and will close after you have selected one of the two flags displayed [or the alt-text block with the language displayed as the alt-text]. 
+
+The other pages of the website can be found in hidden folders named after the language of the webpages they contain [{Afr} and {Eng}]. The two images contained in the file "lang-Select.html" can be found in the hidden folder {Images}.
+
+However if you are working in windows file explorer, once you have done the following which should make navigation much easier:
+
+1.	Press the three consecutive dots [•••] that act as a dropdown-list 	and select {⚙️Options}.
+
+2.	Select the {View} Tab at the top of the window that opens.
+
+3.	Search for the checkbox/selector-circle 
+	{▢ Show hidden files, folders, and drives}
+			    OR
+	{◯ Show hidden files, folders, and drives}
+	And ensure it is active/checked and the hidden files will become 	visible.
+
+
+If any confusion persists feel free to contact me at ricojansevr2@gmail.com.
+
+[It may take a while for me to receive your e-mail as we are at the peak of the Record exams]
